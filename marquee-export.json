@@ -1,0 +1,36 @@
+{
+ "autoDetect": true,
+ "version": "1.3.5",
+ "workspaces": [
+  {
+   "id": "52577fc1bc5b138a3c3bc9a0abc9a0c9df570c63",
+   "name": "docs-en",
+   "type": "folder",
+   "path": "/C:/Users/lenovo/OneDrive/Dokumenty/GitHub/docs-en"
+  },
+  {
+   "id": "774f4fa7100eff3943f6f5dec9a7de7caf769a54",
+   "name": "docs-en",
+   "type": "folder",
+   "path": "/c:/Users/lenovo/OneDrive/Dokumenty/GitHub/docs-en"
+  },
+  {
+   "id": "ea86e70d9a866cbbe54a4c72cc1265f7b49dda4a",
+   "name": "Person_reID_baseline_pytorch",
+   "type": "folder",
+   "path": "/C:/Users/lenovo/OneDrive/Dokumenty/GitHub/Person_reID_baseline_pytorch"
+  },
+  {
+   "id": "05026b3bccd22f640a0150c68e3e59b6c2e92dbd",
+   "name": "html",
+   "type": "folder",
+   "path": "/C:/Ecru/PRO100 Demo/html"
+  },
+  {
+   "id": "dc401fe9c1ec61e991d9e9728c940cf6d65238b3",
+   "name": "pro100uchet",
+   "type": "folder",
+   "path": "/C:/Users/lenovo/OneDrive/Dokumenty/GitHub/pro100uchet"
+  }
+ ]
+}
